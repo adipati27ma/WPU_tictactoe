@@ -28,3 +28,11 @@ body {
 .status {
   margin-bottom: 10px;
 }
+
+.game {
+  display: flex;
+}
+
+ol li {
+  margin-bottom: 5px;
+}
